@@ -1,0 +1,19 @@
+{
+  "name": "My First NFT",
+  "description": "This is my first NFT minted using the Simple NFT Minter dApp",
+  "image": "https://ipfs.io/ipfs/QmTgqnhFBMkfT9s8PHKcdXBn1f5bG3Q5hmBaR4U6hoTvb1",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Example"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
